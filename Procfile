@@ -1,1 +1,1 @@
-web:yarn hack
+web:npm run hack
