@@ -19,6 +19,7 @@
     "@types/bcrypt": "^3.0.0",
     "@types/jsonwebtoken": "^8.5.1",
     "bcrypt": "^5.0.1",
+    "debug": "^4.3.3",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "jwt": "^0.2.0",
